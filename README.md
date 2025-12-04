@@ -8,11 +8,11 @@ This repository contains my structured study notes. Click on any link to view th
 
 ### Lesson Notes
 
-* [Lesson 1 - Introduction to InfoSec](01_IS_Risk_Management/Lesson%201%20-%20Introduction%20to%20Info%20Sec.md)
-* [Lesson 2 - Attack & Types](01_IS_Risk_Management/Lesson%202.md)
-* [Lesson 3 - Adaptability](01_IS_Risk_Management/Lesson%203.md)
-* [Lesson 4 - (Insert Lesson Title)](01_IS_Risk_Management/Lesson%204.md)
-* [Lesson 5 - (Insert Lesson Title)](01_IS_Risk_Management/Lesson%205.md)
+* [Lesson 1 - Introduction to InfoSec](IS Risk Management /Lesson 1  - Introduction to Information Security.md)
+* [Lesson 2 - Attack & Types](IS Risk Management /Lesson 2.md)
+* [Lesson 3 - Adaptability](IS Risk Management /Lesson 3.md)
+* [Lesson 4 - (Insert Lesson Title)](IS Risk Management /Lesson 4.md)
+* [Lesson 5 - (Insert Lesson Title)](IS Risk Management /Lesson 5.md)
 
 ---
 *All files are maintained in an Obsidian vault.*
