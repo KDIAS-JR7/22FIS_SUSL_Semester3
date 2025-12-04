@@ -1,6 +1,6 @@
 [[IS Risk Management/Lesson 2.md]]
 # Components of Risk and their Interactions
-![[IS Risk Management/risk components.png]]
+![Diagram](IS Risk Management/risk components)
 - Threat are  POSSIBLE events; either an action or inaction that leads to unwanted, negative situations. [[Lesson 2#Threat(a possibility) ⚠️]]
 - Vulnerabilities are weaknesses or environmental factors that increase the probability of an threat being successful.
 - The outcome impact is the final negative impact on the asset once the threat exploits a vulnerability to carryout an attack.
